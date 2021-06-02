@@ -1,0 +1,143 @@
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csprojAssemblyReference.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.AssemblyInfoInputs.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.AssemblyInfo.cs
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csproj.CoreCompileInputs.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.exe
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.deps.json
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.runtimeconfig.json
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.runtimeconfig.dev.json
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.pdb
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/staticwebassets/LasrraAMPService.StaticWebAssets.Manifest.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/staticwebassets/LasrraAMPService.StaticWebAssets.xml
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/scopedcss/bundle/LasrraAMPService.styles.css
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.RazorTargetAssemblyInfo.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csproj.CopyComplete
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.pdb
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.genruntimeconfig.cache
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/macbookpro/source/repos/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.deps.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.runtimeconfig.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.runtimeconfig.dev.json
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/LasrraAMPService.pdb
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csprojAssemblyReference.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.AssemblyInfo.cs
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.RazorTargetAssemblyInfo.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.csproj.CopyComplete
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/staticwebassets/LasrraAMPService.StaticWebAssets.Manifest.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/staticwebassets/LasrraAMPService.StaticWebAssets.xml
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.pdb
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/obj/Debug/netcoreapp3.1/LasrraAMPService.genruntimeconfig.cache
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.exe
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.deps.json
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.json
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.dev.json
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.pdb
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csprojAssemblyReference.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfo.cs
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.Manifest.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.xml
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LasrraAMPService.styles.css
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CopyComplete
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.dll
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.pdb
+\\Mac\Home\Documents\identiko\Adminportal\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.genruntimeconfig.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csprojAssemblyReference.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfoInputs.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfo.cs
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.exe
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.deps.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.dev.json
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.pdb
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.RazorTargetAssemblyInfo.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CopyComplete
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.Manifest.cache
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.xml
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.dll
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.pdb
+C:\Users\user\Dropbox\My PC (Phantom)\Desktop\brandNew\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.genruntimeconfig.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfoInputs.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.AssemblyInfo.cs
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.exe
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.deps.json
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.json
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.runtimeconfig.dev.json
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.dll
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\bin\Debug\netcoreapp3.1\LasrraAMPService.pdb
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.Manifest.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\staticwebassets\LasrraAMPService.StaticWebAssets.xml
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LasrraAMPService.styles.css
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.RazorTargetAssemblyInfo.cache
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.csproj.CopyComplete
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.dll
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.pdb
+C:\Users\ALEX\Desktop\work\Identiko\hezekaih-lasrra-amp-265b1eb42d51\LasrraAMPService\LasrraAMPService\obj\Debug\netcoreapp3.1\LasrraAMPService.genruntimeconfig.cache

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{EA1C2567-FA7F-4963-95C5-ADF04697D623}|Default">
+  <MonoDevelop.Ide.ItemProperties.LasrraAMPService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LasrraAMPService/Controllers/AMPAgentsController.cs">
+    <Files>
+      <File FileName="LasrraAMPService/Controllers/AMPAgentsController.cs" Line="17" Column="1" />
+      <File FileName="LasrraAMPService/Services/httpService/AMPHttp.cs" Line="95" Column="48" />
+      <File FileName="LasrraAMPService/Controllers/AuthenticationController.cs" Line="39" Column="46" />
+      <File FileName="LasrraAMPService/Data/MockAMPRepository.cs" Line="86" Column="40" />
+      <File FileName="LasrraAMPService/Services/AesServic.cs" Line="60" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LasrraAMPService" expanded="True">
+            <Node name="LasrraAMPService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AMPAgentsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="httpService" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Data/MockAMPRepository.cs" relfile="LasrraAMPService/Data/MockAMPRepository.cs" line="155" column="1" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Controllers/AuthenticationController.cs~RF9e204c0.TMP" relfile="LasrraAMPService/Controllers/AuthenticationController.cs~RF9e204c0.TMP" line="49" column="1" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Controllers/AuthenticationController.cs~RF9e204c0.TMP" relfile="LasrraAMPService/Controllers/AuthenticationController.cs~RF9e204c0.TMP" line="42" column="1" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Data/MockAMPRepository.cs" relfile="LasrraAMPService/Data/MockAMPRepository.cs" line="176" column="1" />
+      <Breakpoint enabled="false" file="/usr/local/share/dotnet/sdk/3.1.302/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" line="234" column="5" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="40" column="1" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="59" column="1" />
+      <Breakpoint enabled="false" file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Controllers/AuthenticationController.cs" relfile="LasrraAMPService/Controllers/AuthenticationController.cs" line="38" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="65" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Data/MockAMPRepository.cs" relfile="LasrraAMPService/Data/MockAMPRepository.cs" line="87" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="89" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="96" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/identiko/Adminportal/LasrraAMPService/LasrraAMPService/Services/httpService/AMPHttp.cs" relfile="LasrraAMPService/Services/httpService/AMPHttp.cs" line="77" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
